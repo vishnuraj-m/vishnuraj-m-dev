@@ -1,13 +1,13 @@
-![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
+<!-- ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif) -->
 <h1 align="center">Hi 👋, I'm Vishnuraj M</h1>
 <img align="right" width="400"
     src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif"
     alt="Coding">
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img
+<!-- <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=vishnuraj-m-dev&label=Profile%20views&color=0e75b6&style=flat"
-        alt="vishnuraj-m-dev" /> </p>
+        alt="vishnuraj-m-dev" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
